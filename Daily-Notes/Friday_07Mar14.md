@@ -1,5 +1,4 @@
-####FYI Managers: People Don't Want to Work at Home
-[Event Link](http://schedule.sxsw.com/2014/events/event_IAP24450)
+####[FYI Managers: People Don't Want to Work at Home](http://schedule.sxsw.com/2014/events/event_IAP24450)
  
  #CubeCultr
 
