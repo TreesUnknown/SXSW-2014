@@ -1,10 +1,14 @@
 ##SXSW Interactive 2014
 
+Friday, March 7
+
 [FYI Managers: People Don't Want to Work at Home](http://schedule.sxsw.com/2014/events/event_IAP24450)
 
 [Millennials As Supervisors: Strategies for Success](http://schedule.sxsw.com/2014/events/event_IAP21739)
 
 [Online Learning & Maybe the End of Professionalism](http://schedule.sxsw.com/2014/events/event_IAP19204)
+
+Saturday, March 8
 
 [It's Not About Tech: Hack the Bureaucracy](http://schedule.sxsw.com/2014/events/event_IAP23414)
 
@@ -13,6 +17,9 @@
 [Innovation in Big-Time College Football](http://schedule.sxsw.com/2014/events/event_IAP22133)
 
 [How to Beat the Man (without Becoming the Man)](http://schedule.sxsw.com/2014/events/event_IAP20824)
+
+
+Sunday, March 9
 
 [The New Augmented Order: Gov & Augmented Reality](http://schedule.sxsw.com/2014/events/event_IAP25232)
 
@@ -41,6 +48,9 @@
 [The Giant Has Awakened: Building Brands in Brazil](http://schedule.sxsw.com/2014/events/event_IAP21064)
 
 [Gov 2.0: Enhancing Citizen-Politicain Interactions](http://schedule.sxsw.com/2014/events/event_IAP17104)
+
+
+Tuesday, March 11
 
 [Real World Data: Lessons from Texas Prisons](http://schedule.sxsw.com/2014/events/event_IAP26142)
 
