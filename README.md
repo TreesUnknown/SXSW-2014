@@ -31,6 +31,8 @@ Sunday, March 9
 
 [Be Awesome Without Their Permission](http://schedule.sxsw.com/2014/events/event_IAP27473)
 
+Monday, March 10
+
 [Fact-Checking Goes Global](http://schedule.sxsw.com/2014/events/event_IAP20013)
 
 [The Dynamic Site Is Dead](http://schedule.sxsw.com/2014/events/event_IAP18267)
