@@ -18,6 +18,8 @@ Saturday, March 8
 
 [How to Beat the Man (without Becoming the Man)](http://schedule.sxsw.com/2014/events/event_IAP20824)
 
+[Demo Fair & Gathering](http://schedule.sxsw.com/2014/events/event_OE03084)
+
 
 Sunday, March 9
 
