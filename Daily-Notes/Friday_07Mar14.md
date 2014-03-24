@@ -78,14 +78,14 @@ Dir/Faculty - UC Berkeley
 
 [Slides](http://www.slideshare.net/workstrengths/sxsw2014final)
 
-| Old Way of Work |
+| Traditional Way of Work |
 | :---------: |
 | Hierarchy |
 | Top>Down |
 | Authority |
 | Rules |
 
-| New Way of Work |
+| Emerging Way of Work |
 | :--------: |
 | Consensus Building |
 | Ideas From Anyone |
@@ -122,7 +122,7 @@ Millennial Supervisor Qualities
 |Under Socialized|Slackers|
 |Lost Generation|Cynical|
 
--Millennials 
+- Millennials 
 
 |Work|Goal|
 |:---------:|:---------:|
