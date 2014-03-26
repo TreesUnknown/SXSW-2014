@@ -93,3 +93,17 @@ My summary: Pay off (lobby) The Man.
 [**Medium**](https://medium.com)
 
 [FOIA Machine](https://www.foiamachine.org)
+
+- Easily lookup the appropriate contact or add it to a crowd-sourced database
+- Send requests and track their status
+- Share a request with other FOIA Machine users or add it to a list of publicly searchable requests
+- Create a request "template" when you have to send the same request to multiple agencies across multiple governments
+- Search for other users requests and responsive documents
+- Share your FOIA experience with other user
+
+[GovAlert.me](http://govalert.me)
+
+- Monitors Local Government Agendas Minutes Documents
+- Paid Subscription
+- Built on [eCitizens](http://ecitizens.org) Open Source Software
+
