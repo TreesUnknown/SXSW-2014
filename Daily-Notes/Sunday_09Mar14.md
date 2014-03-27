@@ -90,3 +90,9 @@ Dir of Social Media - University of Michigan
 - Selena R. Friend, MDOT associate region engineer for development in MDOT's Bay Region, who suggested notifying job applicants when they are not selected for interviews. Following up on Friend's suggestion, the Department of Civil Service is coordinating with human resource professionals across state government to implement the change.
  
 - Tom Barrett, a Department of Treasury analyst, who suggested that Pure Michigan billboards include the names of the scenic locations that are featured in the marketing campaign's photos. The Michigan Economic Development Corp. will incorporate Barrett's suggestion into its 2013 advertising plan.
+
+How do you sustain crowdsourcing?  
+Long-term plan for implementing.  
+Focus and narrow goal.
+
+Missouri Secretary of State used crowdsourcing to collect Death Notices
