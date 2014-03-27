@@ -95,4 +95,107 @@ How do you sustain crowdsourcing?
 Long-term plan for implementing.  
 Focus and narrow goal.
 
-Missouri Secretary of State used crowdsourcing to collect Death Notices
+Missouri Secretary of State [Death Certificate Project](http://www.sos.mo.gov/archives/about/Volunteers.asp)
+
+- Formerly: 3 Employees, 44 Days to Archive
+- Crowdsourced: 3 Days, More Accurate
+
+The Smithsonian Transcription Center - [transcription.si.edu](http://transcription.si.edu)
+
+- Volunteers can transcribe materials online
+- Smithsonian has 39 million objects, only 1 million digitized
+
+Presidential Innovation Fellows [Round 3 Projects](http://www.whitehouse.gov//innovationfellows/projects#section-round-3):
+
+- Open Street Map for Diplomacy, U.S. Department of State
+- Asteroid Grand Challenge - NASA
+- Crowdsourcing Tools to Unlock Government Records - National Archives
+- Using the Crowd to Improve Patent Quality - U.S. Patent and Trademark Office
+- Crowdsourcing Disaster Response Information - U.S. Department of Energy
+
+[Bundes-Git](http://okfnlabs.org/blog/2012/12/13/bundesgit-german-laws-on-github.html) - German Laws on GitHub
+
+[ImagineTDLR](http://imagine.tdlr.texas.gov) - Texas Department of Licensing and Regulation:
+
+- Online Forum
+- Give Feedback
+- Interact
+
+[Virtual Student Foreign Service](http://www.state.gov/vsfs/) - U.S. State Department:
+
+- Conduct digital diplomacy from home
+- PR, Research, Survey, Training
+
+---------
+
+[**Why Non-Profits Should Embrace Data Journalism**](http://schedule.sxsw.com/2014/events/event_IAP20942)
+
+\#data4good
+
+**Becca Aaronson**  
+Health Care & Data Reporter - The Texas Tribune  
+@becca_aa
+
+**Javier De La Torre**  
+CEO - CartoDB  
+@jatorre
+
+**Megan Kilgore**  
+Digital Mktg Mgr - Capital Area Food Bank  
+@meganekilgore
+
+["Hunger is Unacceptable"](http://www.austinfoodbank.org/hunger-is-unacceptable/) (site now offline)
+
+The Texas Tribune - [Data Explorers](http://www.texastribune.org/library/data/)
+
+[Global Forest Watch](http://www.globalforestwatch.org)
+
+[Vizzuality](http://www.vizzuality.com) - Data visualizations for Governments and NGOs
+
+[CartoDB](http://cartodb.com) - Open source cloud based mapping, analysis, and visualization engine
+
+Most people in this session are in nonprofit communication.
+
+>Everybody should be able to use Excel.  
+>Everybody should be able to make a map.
+
+[Knight Center for Journalism in the Americas](https://knightcenter.utexas.edu) - UT Austin
+
+---------
+
+[**Designing a Good Death**](http://schedule.sxsw.com/2014/events/event_IAP24130)
+
+\#agooddeath
+
+**Navit Keren**  
+Interaction Designer
+@navit_keren
+
+[Website](http://www.navitk.com)
+
+*A Good Death*  a unique interactive digital toolkit designed to help you easily and comfortably explore and plan for your own EoL experience.
+
+-------
+
+[**Be Awesome Without Their Permission**](http://schedule.sxsw.com/2014/events/event_IAP27473)
+
+\#WTPBook
+
+**Alexis Ohanian**  
+Startup Guy  
+@alexisohanian
+
+"Eat your haters for breakfast like waffles"
+
+"Sucking is the first step of being sort of good at something"
+
+Interview with Chrys Bader of [Secret](https://www.secret.ly):
+
+Failed projects: twitbit.io, vid.ly, Treehouse - beaten by Instagram  
+Successes: Worked for Google, Just launched Secret app
+
+Invited a person from the audience to give their "elevator pitch",   
+Woman with a startup: [Garden Genie](http://gardengenie.co)
+
+>LIVES REMAINING = 0
+
