@@ -122,7 +122,7 @@ Funded by Knight Foundation Grant
 
 Alpha project about to move to beta.
 
-Relies on the Diversity Trumps Ability Theorem:  
+Relies on the *Diversity Trumps Ability Theorem:*  
 >*Groups of diverse problem solvers can outperform groups of high-ability problem solvers*  
 >[doi: 10.1073/pnas.0403723101](http://www.pnas.org/content/101/46/16385.full?related)
 
@@ -137,3 +137,93 @@ Users will earn a reputation.
 Three Portals: Thoughts, Ideas, Questions
 
 Goal: Problem solving
+
+------------
+
+[**Tweet & Protect: Humanizing Authority with Social**](http://schedule.sxsw.com/2014/events/event_IAP24824)
+
+\#tweetwatch
+
+**Ashley Jane Brookes**  
+Sr Brand & Content Mgr - HootSuite
+
+No real takeaways from this one.
+
+-----------
+
+[**Think, Act, & Create Like a Mashup**](http://schedule.sxsw.com/2014/events/event_IAP21922)
+
+\#bemashups
+
+**Felicia Pride**  
+CCO - Pride Collaborative/The Create Daily
+
+[Slides](http://www.slideshare.net/FeliciaPride/think-act-and-create-like-a-mashup-sxsw)
+
+Mashups: Street Art, Websites, Jobs
+
+>"Your 30-second elevator pitch is actually a 5 minute monologue"
+
+- Seek out inspiration from different disciplines and philosophies
+- Adopt a project mentality
+- Operate from a mission and not a title
+- Accept failure as a part of the creation process
+
+--------
+
+[**Think Small About Big Civic Engagement Data**](http://schedule.sxsw.com/2014/events/event_IAP24754)
+
+\#smalldata
+
+[Slides](https://drive.google.com/file/d/0B6nodprXP1zvVlJfLU1Dam42dkk/edit?usp=sharing)
+
+**Nick Bowden**  
+CEO - MindMixer
+
+"The feedback loop in & out of government is broken"
+
+Using geographic analysis in participatory budgeting:
+
+>Q: Should library hours be extended?
+
+A large group of respondents wanted to extend library hours.  However, most of those wanting to extend the hours lived near a particular library branch. So, the hours were extended for that branch. This allowed resources to be utilized to satisfy needs from other respondents.
+
+---------
+
+[**The Future of Government-Citizen Interaction**](http://schedule.sxsw.com/2014/events/event_IAP22147)
+
+\#gov20
+
+**Surya Yalamanchili**  
+CEO - PublicStuff  
+@suryasays
+
+Former Mayor of Newark, Cory Booker: Engaged using "drive arounds" and Twitter. Both bypass the bureaucracy.
+
+Brimfield, OH Police Department's (pop. 3,617) [Facebook page](https://www.facebook.com/BrimfieldPolice) has 142,000 "likes"
+
+>Citizens need constant communication channels
+
+Pothole Tracker app: Remove Friction, See Results
+
+---------
+
+[**The Giant Has Awakened: Building Brands in Brazil**(http://schedule.sxsw.com/2014/events/event_IAP21064)
+
+\#brandBR
+
+[Slides](http://www.slideshare.net/jwtintelligence/the-brazil-opportunity-a-guide-for-marketers-november-2013)
+
+>"International brands don't have the class-based prejudices that domestic brands have."
+
+-----
+
+{**Gov 2.0: Enhancing Citizen-Politicain Interactions**](http://schedule.sxsw.com/2014/events/event_IAP17104)
+
+\#socialgov
+
+**Albert Nichols**  
+Prod Mgr, Social Software - IBM  
+@corbinan
+
+I felt bad for this guy since he basically talked about the same topic as one of the speakers before him. However, he talked in general terms without any references to specific apps or engagement platforms.
