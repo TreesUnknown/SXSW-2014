@@ -8,6 +8,7 @@ Friday, March 7
 
 [Online Learning & Maybe the End of Professionalism](http://schedule.sxsw.com/2014/events/event_IAP19204)
 
+
 Saturday, March 8
 
 [It's Not About Tech: Hack the Bureaucracy](http://schedule.sxsw.com/2014/events/event_IAP23414)
@@ -32,6 +33,7 @@ Sunday, March 9
 [Designing a Good Death](http://schedule.sxsw.com/2014/events/event_IAP24130)
 
 [Be Awesome Without Their Permission](http://schedule.sxsw.com/2014/events/event_IAP27473)
+
 
 Monday, March 10
 
@@ -59,8 +61,6 @@ Tuesday, March 11
 [Real World Data: Lessons from Texas Prisons](http://schedule.sxsw.com/2014/events/event_IAP26142)
 
 [Representative Democracy in a Social Media Era](http://schedule.sxsw.com/2014/events/event_IAP24468)
-
-[Rebels at Work: How to Make Change Real After SXSW](http://schedule.sxsw.com/2014/events/event_IAP25123)
 
 [The Future Farm Is Now: Can Robots Feed the World?](http://schedule.sxsw.com/2014/events/event_IAP20078)
 
