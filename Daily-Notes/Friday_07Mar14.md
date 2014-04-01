@@ -81,7 +81,7 @@ Dir/Faculty - UC Berkeley
 | Traditional Way of Work |
 | :---------: |
 | Hierarchy |
-| Top>Down |
+| Top → Down |
 | Authority |
 | Rules |
 
