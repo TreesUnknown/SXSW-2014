@@ -218,7 +218,7 @@ Pothole Tracker app: Remove Friction, See Results
 
 -----
 
-{**Gov 2.0: Enhancing Citizen-Politicain Interactions**](http://schedule.sxsw.com/2014/events/event_IAP17104)
+[**Gov 2.0: Enhancing Citizen-Politicain Interactions**](http://schedule.sxsw.com/2014/events/event_IAP17104)
 
 \#socialgov
 
