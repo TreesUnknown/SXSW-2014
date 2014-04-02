@@ -228,3 +228,11 @@ Admission Essays = B.S.
 In-person cannot be faked
 
 Skills Change / Culture More Static
+
+This report was found via a tweet from a SXSW attendee:  
+>**Continuous learning and the move from "push" training to "pull" learning**
+
+>Continuous learning and the move from “push” training to “pull” learning
+Historically, most training programs have followed a “push” model. An employee was invited to a training session in a classroom at a specified time, listened to a series of lectures, and was sent back to work. Content was pushed down to employees based on the training department’s schedule and success was measured by how many employees attended the class.
+
+>Today’s employees typically have different expectations of how to acquire and develop skills. Younger Millennial and Generation X workers expect training and support to be as readily and rapidly accessible as a Google search. In this “pull” model, learning and development is a continuous process, with training pulled seamlessly through computers or mobile devices anywhere, anytime. The training class schedule has been replaced by the mouse click and the screen tap. -  [source](http://bit.ly/1dzxs8j)
