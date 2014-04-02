@@ -4,7 +4,7 @@
 
 ####Friday, March 7
 
-[*Friday Notes*](https://github.com/TreesUnknown/SXSW-2014/blob/master/Daily-Notes/07Mar14_Friday.md)
+[**Friday Notes**](https://github.com/TreesUnknown/SXSW-2014/blob/master/Daily-Notes/07Mar14_Friday.md)
 
 [FYI Managers: People Don't Want to Work at Home](http://schedule.sxsw.com/2014/events/event_IAP24450)
 
@@ -15,7 +15,7 @@
 
 ####Saturday, March 8
 
-[*Saturday Notes*](https://github.com/TreesUnknown/SXSW-2014/blob/master/Daily-Notes/08Mar14_Saturday.md)
+[**Saturday Notes**](https://github.com/TreesUnknown/SXSW-2014/blob/master/Daily-Notes/08Mar14_Saturday.md)
 
 [It's Not About Tech: Hack the Bureaucracy](http://schedule.sxsw.com/2014/events/event_IAP23414)
 
@@ -30,7 +30,7 @@
 
 ####Sunday, March 9
 
-[*Sunday Notes*](https://github.com/TreesUnknown/SXSW-2014/blob/master/Daily-Notes/09Mar14_Sunday.md)
+[**Sunday Notes**](https://github.com/TreesUnknown/SXSW-2014/blob/master/Daily-Notes/09Mar14_Sunday.md)
 
 [The New Augmented Order: Gov & Augmented Reality](http://schedule.sxsw.com/2014/events/event_IAP25232)
 
@@ -45,7 +45,7 @@
 
 ####Monday, March 10
 
-[*Monday Notes*](https://github.com/TreesUnknown/SXSW-2014/blob/master/Daily-Notes/10Mar_14_Monday.md)
+[**Monday Notes**](https://github.com/TreesUnknown/SXSW-2014/blob/master/Daily-Notes/10Mar_14_Monday.md)
 
 [Fact-Checking Goes Global](http://schedule.sxsw.com/2014/events/event_IAP20013)
 
@@ -68,7 +68,7 @@
 
 ####Tuesday, March 11
 
-[*Tuesday Notes*](https://github.com/TreesUnknown/SXSW-2014/blob/master/Daily-Notes/11Mar14_Tuesday.md)
+[**Tuesday Notes**](https://github.com/TreesUnknown/SXSW-2014/blob/master/Daily-Notes/11Mar14_Tuesday.md)
 
 [Real World Data: Lessons from Texas Prisons](http://schedule.sxsw.com/2014/events/event_IAP26142)
 
