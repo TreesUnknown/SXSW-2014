@@ -25,7 +25,7 @@ Territories endanger hacks
 
 Pilot projects are a helpful way to hack the bureaucracy
 
-Book: [*Orbiting the Giant Hairball*](http://www.slideshare.net/beaurichly/hack-the-bureaucracy)
+Book: [*Orbiting the Giant Hairball*](http://www.goodreads.com/book/show/100469.Orbiting_the_Giant_Hairball)
 
 United Kingdom: [Government Digital Service](https://gds.blog.gov.uk)  
 - transforming 25 high volume key exemplars from across government into digital services
