@@ -188,7 +188,7 @@ Startup Guy
 
 "Eat your haters for breakfast like waffles"
 
-"Sucking is the first step of being sort of good at something"
+"Sucking is the first step to being sort of good at something"
 
 Interview with Chrys Bader of [Secret](https://www.secret.ly):
 
@@ -199,4 +199,6 @@ Invited a person from the audience to give their "elevator pitch",
 Woman with a startup: [Garden Genie](http://gardengenie.co)
 
 >LIVES REMAINING = 0
+
+[Video from another keynote](http://vimeo.com/90244076)
 
