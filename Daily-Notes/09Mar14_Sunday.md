@@ -55,6 +55,7 @@ Do you want the government to be less effective when companies are more effectiv
 
 Hon. Richard Posner - Judge, U.S. Court of Appeals for the Seventh Circuit  
 - Written on judges' lack of technical knowledge
+
 >"The idea of expert witness who are not beholden to the parties who can provide information to judges and juries on technical issues, I think is a terrific opportunity worth exploring" [cite](http://articles.chicagotribune.com/2012-05-11/business/ct-biz-0511-chicago-law-20120511_1_judges-law-clerks-7th-circuit-bar-association)
 
 Gait analysis can be used instead of facial recognition.
