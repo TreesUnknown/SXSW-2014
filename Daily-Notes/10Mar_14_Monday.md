@@ -208,7 +208,7 @@ Pothole Tracker app: Remove Friction, See Results
 
 ---------
 
-[**The Giant Has Awakened: Building Brands in Brazil**(http://schedule.sxsw.com/2014/events/event_IAP21064)
+[**The Giant Has Awakened: Building Brands in Brazil**](http://schedule.sxsw.com/2014/events/event_IAP21064)
 
 \#brandBR
 
