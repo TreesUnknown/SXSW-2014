@@ -105,5 +105,3 @@ Robert Blair, Blair Farm - Kendrick Idaho
 [The Unmanned Farmer](http://theunmannedfarmer.blogspot.com)
 
 Wearable computing and sensing.
-
-[CopyCat](http://www.cats.gatech.edu/research) - "CopyCat is designed both as a platform to collect gesture data for our ASL recognition system and as a practical application which helps deaf children develop working memory and language skills while they play the game."
