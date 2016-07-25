@@ -5,7 +5,7 @@
 **Lisa Ross**  
 VP, HR - Ask.com
 
-Work From Home -> Better for Task-Oriented
+**Work From Home** -> Better for Task-Oriented
 
 63% prefer focus-time in the office  
 88% of companies offer work from home as a perk
